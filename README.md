@@ -1,2 +1,2 @@
-# ShopApp
+# FoodieApp
 MERN App
